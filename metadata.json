@@ -1,0 +1,5 @@
+{
+  "name": "Sacred Triangle Timer",
+  "description": "A dual interval meditation timer featuring a large, central triangle with a red dot focal point. The timers, labeled 'WISDOM' and 'MEDITATION', are positioned externally. The app is framed by calligraphy banners and includes a live news ticker, plus a scaled-down nst.org window on the left.",
+  "requestFramePermissions": []
+}
